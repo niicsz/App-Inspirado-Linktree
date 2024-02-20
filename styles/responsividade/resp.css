@@ -1,0 +1,281 @@
+@media screen and (max-width: 600px) {
+    .habilidades h1 {
+        margin-top: 10%;
+        font-size: 8vw;
+    }
+    
+    h2{
+        margin-bottom: 5%;
+        margin-top: 4%;
+        font-size: 7vw;
+        color: #fff;
+    
+    }
+    
+    .cards{
+        flex-direction: column;
+        margin-left: 4%;
+    }
+    
+    .card {
+        width: 75vw;
+        height: auto;
+        margin: 8%;
+    }
+    
+    
+    .icone{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 2%;
+    }
+    
+    .icone p{
+        margin-left: 7%;
+        font-size: 4.5vw;
+        color: #fff;
+    }
+    
+    .icone img{
+        width: 10vw;
+    }
+
+    .habConteudo ul li {
+        font-size: 4.5vw;
+        margin: 2%;
+        margin-top: 7%;
+        margin-bottom: 8%;
+        color: #fff;
+    }
+    
+    .habConteudo ul {
+        list-style: none;
+        width: 100%;
+    }
+    
+    .softSkill{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .fa-solid{
+        color: #4ccbfd;
+        margin-right: 2%;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 800px){
+    .habilidades h1 {
+        flex-direction: column;
+        font-size: 6vw;
+    }
+    
+    h2{
+        margin-bottom: 5%;
+        margin-top: 4%;
+        font-size: 5vw;
+        color: #fff;
+    
+    }
+    
+    .cards{
+        flex-direction: column;
+        margin-left: 4%;
+    }
+    
+    .card {
+        width: 47vw;
+        height: auto;
+        margin: 2%;
+    }
+    
+    
+    .icone{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 2%;
+    }
+    
+    .icone p{
+        margin-left: 7%;
+        font-size: 3vw;
+        color: #fff;
+    }
+    
+    .icone img{
+        width: 10vw;
+    }
+
+    .habConteudo ul li {
+        font-size: 3vw;
+        margin: 2%;
+        margin-top: 7%;
+        margin-bottom: 8%;
+        color: #fff;
+    }
+    
+    .habConteudo ul {
+        list-style: none;
+        width: 100%;
+    }
+    
+    .softSkill{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .fa-solid{
+        color: #4ccbfd;
+        margin-right: 2%;
+    }
+}
+
+@media screen and (min-width: 800px ) and (max-width: 1000px){
+    .habilidades h1 {
+        flex-direction: column;
+        font-size: 4vw;
+    }
+    
+    h2{
+        margin-bottom: 5%;
+        margin-top: 4%;
+        font-size: 3vw;
+        color: #fff;
+    
+    }
+    
+    .cards{
+        flex-direction: column;
+        margin-left: 2%;
+    }
+    
+    .card {
+        width: 35vw;
+        height: auto;
+        margin: 2%;
+    }
+    
+    
+    .icone{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 2%;
+    }
+    
+    .icone p{
+        margin-left: 0%;
+        font-size: 2vw;
+        color: #fff;
+    }
+    
+    .icone img{
+        width: 10vw;
+    }
+
+    .habConteudo ul li {
+        font-size: 2vw;
+        margin: 2%;
+        margin-top: 7%;
+        margin-bottom: 8%;
+        color: #fff;
+    }
+    
+    .habConteudo ul {
+        list-style: none;
+        width: 100%;
+    }
+    
+    .softSkill{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .fa-solid{
+        color: #4ccbfd;
+        margin-right: 2%;
+    }
+}
+
+@media screen and (min-width: 1000px ) and (max-width: 2080px){
+    .habilidades h1 {
+        flex-direction: column;
+        font-size: 4vw;
+    }
+    
+    h2{
+        margin-bottom: 5%;
+        margin-top: 4%;
+        font-size: 2.5vw;
+        color: #fff;
+    
+    }
+    
+    .cards{
+        flex-direction: column;
+        margin-left: 2%;
+    }
+    
+    .card {
+        width: 28vw;
+        height: auto;
+        margin: 1%;
+    }
+    
+    .contTech{
+        margin-left: 15%;
+    }
+
+    .icone{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin: 2%;
+        margin-right: 10%;
+    }
+    
+    .icone p{
+        margin-left: 0%;
+        font-size: 2vw;
+        color: #fff;
+    }
+    
+.icone img {
+    margin-right: 4%;
+}
+
+    .habConteudo ul li {
+        font-size: 2vw;
+        margin: 2%;
+        margin-top: 7%;
+        margin-bottom: 8%;
+        color: #fff;
+    }
+    
+    .habConteudo ul {
+        list-style: none;
+        width: 100%;
+    }
+    
+    .softSkill{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+    .fa-solid{
+        color: #4ccbfd;
+        margin-right: 2%;
+    }
+
+}
+

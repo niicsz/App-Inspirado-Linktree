@@ -1,0 +1,92 @@
+
+.habilidades h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    font-size: 3vw;
+    font-family: 'Jost';
+    color: #fff;
+}
+
+h2{
+    margin-bottom: 5%;
+    font-size: 2vw;
+    color: #fff;
+
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 24%;
+}
+
+.card {
+    background: linear-gradient(180deg, #D9D9D9 0%, #A824E6 0%, rgba(228, 6, 217, 0.801) 100%);
+    border: solid 2px #fff;
+    width: 20vw;
+    height: auto;
+    margin: 4%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    font-family: 'Jost';
+}
+
+.habConteudo{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.icone{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 7.2%;
+}
+
+.icone p{
+    margin-left: 7%;
+    font-size: 1.3vw;
+    color: #fff;
+}
+
+.habConteudo ul li {
+    font-size: 1.3vw;
+    margin: 2%;
+    margin-top: 7%;
+    margin-bottom: 8%;
+    color: #fff;
+}
+
+.habConteudo ul {
+    list-style: none;
+    width: 100%;
+}
+
+.softSkill{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.fa-solid{
+    color: #4ccbfd;
+    margin-right: 2%;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 5vh;
+    border-top: 1px solid #ffffff63;
+    font-family: 'Jost';
+    color: #fff;
+}
