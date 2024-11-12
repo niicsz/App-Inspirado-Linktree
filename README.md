@@ -1,7 +1,3 @@
-Aqui está o `README.md` para o seu projeto **Info's Nicolas Bezerra Bini**, que parece ser uma página simples com informações de contato e links para o portfólio e redes sociais:
-
----
-
 # Info's Nicolas Bezerra Bini - Página Pessoal
 
 Este é um projeto simples de página pessoal criada para exibir informações sobre **Nicolas Bezerra Bini**, um desenvolvedor de software. A página contém links para o **GitHub**, **LinkedIn**, **Portfólio** e outras informações de contato, como **Currículo** e **Habilidades**. A página tem um efeito visual de "chuva" e um layout responsivo.
